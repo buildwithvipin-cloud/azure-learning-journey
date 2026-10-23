@@ -269,11 +269,11 @@ The exact outcome depends on the policy definitions, assignment parameters, exem
 
 ## 13. Official Microsoft References
 
-Azure subscription design	[Subscription considerations and recommendations](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-subscriptions?utm_source=chatgpt.com)
-Management groups and resource organization	[Resource organization](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org?utm_source=chatgpt.com)
-Landing zone design areas	[Azure landing zone design areas](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas?utm_source=chatgpt.com)
-Azure Policy	[Azure Policy overview](https://learn.microsoft.com/en-us/azure/governance/policy/overview?utm_source=chatgpt.com)
-Resource groups and Azure Resource Manager	[Azure Resource Manager overview
+-Azure subscription design	                 [Subscription considerations and recommendations](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-subscriptions?utm_source=chatgpt.com)
+-Management groups and resource organization	 [Resource organization](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org?utm_source=chatgpt.com)
+-Landing zone design areas	                 [Azure landing zone design areas](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas?utm_source=chatgpt.com)
+-Azure Policy	                                 [Azure Policy overview](https://learn.microsoft.com/en-us/azure/governance/policy/overview?utm_source=chatgpt.com)
+-Resource groups and Azure Resource Manager	 [Azure Resource Manager overview
 ](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview?utm_source=chatgpt.com)
 ## Lesson Status
 
